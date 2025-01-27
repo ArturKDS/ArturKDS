@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, meu nome é Artur Kuhn da Silva👋
 
-<!--
-**ArturKDS/ArturKDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Este é meu perfil pessoal onde público meus projetos pessoais e prático meus estudos
 
-Here are some ideas to get you started:
+### Contate-me 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturkuhn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturKDS&show_icons=true&theme=transparent)
+
+
+### Principais Tecnologias
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-800080?style=for-the-badge&logo=php&logoColor=white"/>
+ <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</div>
