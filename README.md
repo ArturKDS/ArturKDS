@@ -5,7 +5,7 @@
 ### Contate-me 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturkuhn/)
 
-![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturKDS&show_icons=true&theme=transparent)
+![ArturKDS GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturKDS&show_icons=true&theme=transparent)
 
 
 ### Principais Tecnologias
